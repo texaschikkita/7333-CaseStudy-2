@@ -29,7 +29,7 @@ So what do the numbers say?
 In essence, the numbers show that while Random Forest had a slight edge in overall accuracy, the Stacking Classifier performed significantly better in identifying patients at risk of readmission (higher recall and macro-F1 score), especially when using SMOTE to address class imbalance. This makes the Stacking Classifier the preferred model when prioritizing the correct identification of potential readmissions.
 
 
-** Note other files and csv.s are in the main  QTW 7333 repo as I havne't yet moved them over or tidied the repositories.  Pardon the confusion.  One day, I might organize it.  But, not today, and prohably not tomorrow.  
+** Note:  Lots ( too many if I'm being honest) other files and csv's are in the main QTW 7333 repo as I haven't yet moved them over, nor have I tidied the repositories.  Pardon the confusion.  One day, I might organize it(them).  But, not today, and probably not tomorrow.  
 
 -JLTM  2-4-2025
 -SMU MSDS Spring 2025 Quantifying The World
